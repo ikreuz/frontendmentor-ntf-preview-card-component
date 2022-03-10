@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ikreuz](https://github.com/ikreuz/frontendmentor-qr-code-component.git)
-- Live Site URL: [https://vigilant-euclid-7deca0.netlify.app](https://vigilant-euclid-7deca0.netlify.app/)
+- Live Site URL: [https://frontendmentor-ntf-preview-card-component.vercel.app/](https://frontendmentor-ntf-preview-card-component.vercel.app/)
 
 ## My process
 
